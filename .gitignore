@@ -1,6 +1,8 @@
 CMakeLists.txt
 build/*
 .idea/*
+!build/Release
 !build/.gitkeep
+build/Release/*
 !build/Release/.gitkeep
 !build/Release/FastImage.node
