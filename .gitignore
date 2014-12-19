@@ -1,0 +1,5 @@
+CMakeLists.txt
+build/*
+.idea/*
+!build/.gitkeep
+!build/Release/.gitkeep
