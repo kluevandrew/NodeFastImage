@@ -1,4 +1,4 @@
-var FastImage = require('./build/Release/FastImage').FastImage;
+var FastImage = require('../build/Release/FastImage').FastImage;
 
 try {
     var obj = new FastImage("./orig.jpg");
